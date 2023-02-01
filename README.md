@@ -15,3 +15,7 @@
 ``` brew install docker```
 
 ``` brew install awscli```
+
+```brew install kubectx```
+
+```brew install kubernetes-cli``` 
