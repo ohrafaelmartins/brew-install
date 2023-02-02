@@ -21,3 +21,9 @@
 ```brew install kubernetes-cli``` 
 
 ```brew install --cask pritunl```
+
+```brew install terraformer``` 
+
+```brew install --cask dbeaver-community```
+
+```brew install telnet```
