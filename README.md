@@ -19,3 +19,5 @@
 ```brew install kubectx```
 
 ```brew install kubernetes-cli``` 
+
+```brew install --cask pritunl```
