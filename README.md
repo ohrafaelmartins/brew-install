@@ -27,3 +27,5 @@
 ```brew install --cask dbeaver-community```
 
 ```brew install telnet```
+
+```brew install watch```
