@@ -29,3 +29,13 @@
 ```brew install telnet```
 
 ```brew install watch```
+
+```brew install helm``` 
+
+```brew install k9s``` 
+
+```brew install --cask meld``` 
+
+```brew install tfsec``` 
+
+```brew install rename``` 
