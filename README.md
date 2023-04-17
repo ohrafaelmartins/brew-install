@@ -41,3 +41,5 @@
 ```brew install rename``` 
 
 ```brew install kind``` 
+
+```brew install colima```
