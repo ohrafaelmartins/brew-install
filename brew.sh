@@ -23,3 +23,4 @@ brew install k9s
 brew install --cask meld
 brew install tfsec
 brew install rename
+brew install kind
