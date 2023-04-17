@@ -24,3 +24,4 @@ brew install --cask meld
 brew install tfsec
 brew install rename
 brew install kind
+brew install colima
