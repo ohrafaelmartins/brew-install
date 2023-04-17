@@ -39,3 +39,5 @@
 ```brew install tfsec``` 
 
 ```brew install rename``` 
+
+```brew install kind``` 
