@@ -43,3 +43,5 @@
 ```brew install kind``` 
 
 ```brew install colima```
+
+```brew install tree```
