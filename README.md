@@ -45,3 +45,5 @@
 ```brew install colima```
 
 ```brew install tree```
+
+```brew install zsh-completions```
