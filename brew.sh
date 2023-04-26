@@ -20,7 +20,8 @@ brew install terraform \
     tree \
     zsh-completions \
     helm \
-    mysql
+    mysql \
+    wget
 
 brew install --cask iterm2 \
     spotify \
