@@ -26,3 +26,5 @@ brew install rename
 brew install kind
 brew install colima
 brew install tree
+brew install zsh-completions
+
