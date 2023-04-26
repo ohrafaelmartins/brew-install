@@ -19,7 +19,8 @@ brew install terraform \
     colima \
     tree \
     zsh-completions \
-    helm
+    helm \
+    mysql
 
 brew install --cask iterm2 \
     spotify \
