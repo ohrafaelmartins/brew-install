@@ -21,7 +21,8 @@ brew install terraform \
     zsh-completions \
     helm \
     mysql \
-    wget
+    wget \
+    ncdu
 
 brew install --cask iterm2 \
     spotify \
