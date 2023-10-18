@@ -31,4 +31,5 @@ brew install --cask iterm2 \
     google-drive \
     pritunl \
     dbeaver-community \
-    meld
+    meld \
+    thunderbird
