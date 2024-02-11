@@ -1,5 +1,8 @@
 #!/bin/zsh
 
+### Install Homebrew
+### https://brew.sh/
+
 # Your script code goes here
 
 brew install terraform \
